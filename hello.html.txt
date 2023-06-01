@@ -6,6 +6,10 @@
 het asdfhsdjkdsfjksdskdhskdgsdkfjdsfkgn
 this is sibin 
 
+<<<<<<< HEAD
 
 
 no i can't 
+=======
+added a codeeeeeeeeeeee
+>>>>>>> feature
